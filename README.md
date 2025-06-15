@@ -94,7 +94,7 @@ FrancescoGorgia/
 **Harekrishna Manna**
 Frontend Developer (React Learner) | Based in Mumbai
 Currently learning React and aiming for full stack (MERN)
-Connect with me on [LinkedIn](www.linkedin.com/in/harekrishna-manna-22569736b)
+Connect with me on [LinkedIn](www.linkedin.com/in/harekrishna-manna-22569736b/)
 
 ---
 

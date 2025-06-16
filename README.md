@@ -4,6 +4,13 @@ A visually rich, responsive landing page created to showcase brand identity and 
 
 Live Demo 🔗: [francesco999.netlify.app](https://francesco999.netlify.app/)
 
+
+---
+
+## Preview
+
+![Preview](./Assets/FranscoGioia-gif.gif)
+
 ---
 
 ## 📌 Project Overview
@@ -68,6 +75,12 @@ Designed and tested for:
 * Add loading transitions (currently in development)
 * Add accessibility enhancements and keyboard nav
 * Consider React + Framer Motion version in the future
+
+---
+
+## Preview
+
+![Preview](./Assets/FrancescoGioia-gif2.gif)
 
 ---
 
